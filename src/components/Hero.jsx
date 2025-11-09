@@ -1,5 +1,5 @@
 import React from "react";
-import mandala from "../assets/mandala.svg";
+import mandala from "../assets/Mandala.svg";
 import logo from "../assets/logo.png"; // ✅ your logo image
 import bgPattern from "../assets/bg-pattern.png";
 
