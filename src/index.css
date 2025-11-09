@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+.logo-serif {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+@import "tailwindcss";
+
+/* index.css (top) */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+@keyframes mandala-rotate {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+.rotate-mandala {
+  animation: mandala-rotate 22s linear infinite;
+  transform-origin: 50% 50%;
+}
